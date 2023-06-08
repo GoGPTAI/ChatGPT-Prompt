@@ -14,7 +14,6 @@ ChatGPT是由[OpenAI](https://www.openai.com/)训练的一款大型语言模型�
 
 **[在 Gitee 上查看](https://gogpt.vip/?channel=git)**
 
-
 ------
 
 ## ChatGPT-Prompt 英文版
