@@ -84,7 +84,7 @@ GoGPT  https://gogpt.vip
 
 |直接加群|如果前面的过期，加我拉你入群|AI创新工坊 公众号|
 |:--:|:--:|:--:|
-|<img src="https://imgs.weimei.life/go/jrsq.jpeg" width="300"/>|<img src="https://github.com/GoGPTAI/ChatGPT-Prompt/blob/main/images/jack_qrcode.png?raw=true" width="300"/>|<img src="https://github.com/GoGPTAI/ChatGPT-Prompt/blob/main/images/qrcode_430.jpg?raw=true" width="300"/>|
+|<img src="https://imgs.weimei.life/go/jrsq_628.jpg" width="300"/>|<img src="https://github.com/GoGPTAI/ChatGPT-Prompt/blob/main/images/jack_qrcode.png?raw=true" width="300"/>|<img src="https://github.com/GoGPTAI/ChatGPT-Prompt/blob/main/images/qrcode_430.jpg?raw=true" width="300"/>|
 
 # 正经指南
 
